@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="18" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-14T22:22:12 IST" name="Default suite" finished-at="2024-09-14T22:22:35 IST" duration-ms="22991">
+    <groups>
+    </groups>
+    <test started-at="2024-09-14T22:22:12 IST" name="Default test" finished-at="2024-09-14T22:22:35 IST" duration-ms="22991">
+      <class name="com.test.Sauce_Class">
+        <test-method signature="browserLaunch()[pri:0, instance:com.test.Sauce_Class@2eae8e6e]" started-at="2024-09-14T22:22:12 IST" name="browserLaunch" finished-at="2024-09-14T22:22:14 IST" duration-ms="1865" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="url()[pri:1, instance:com.test.Sauce_Class@2eae8e6e]" started-at="2024-09-14T22:22:14 IST" name="url" finished-at="2024-09-14T22:22:15 IST" duration-ms="912" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method signature="userName()[pri:2, instance:com.test.Sauce_Class@2eae8e6e]" started-at="2024-09-14T22:22:15 IST" name="userName" finished-at="2024-09-14T22:22:15 IST" duration-ms="166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userName -->
+        <test-method signature="password()[pri:3, instance:com.test.Sauce_Class@2eae8e6e]" started-at="2024-09-14T22:22:15 IST" name="password" finished-at="2024-09-14T22:22:15 IST" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- password -->
+        <test-method signature="login()[pri:4, instance:com.test.Sauce_Class@2eae8e6e]" started-at="2024-09-14T22:22:15 IST" name="login" finished-at="2024-09-14T22:22:15 IST" duration-ms="104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="aboutMenu()[pri:5, instance:com.test.Sauce_Class@2eae8e6e]" started-at="2024-09-14T22:22:15 IST" name="aboutMenu" finished-at="2024-09-14T22:22:15 IST" duration-ms="56" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aboutMenu -->
+        <test-method signature="about()[pri:6, instance:com.test.Sauce_Class@2eae8e6e]" started-at="2024-09-14T22:22:15 IST" name="about" finished-at="2024-09-14T22:22:24 IST" duration-ms="8553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- about -->
+        <test-method signature="back()[pri:7, instance:com.test.Sauce_Class@2eae8e6e]" started-at="2024-09-14T22:22:24 IST" name="back" finished-at="2024-09-14T22:22:29 IST" duration-ms="5365" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- back -->
+        <test-method signature="validateThePage()[pri:8, instance:com.test.Sauce_Class@2eae8e6e]" started-at="2024-09-14T22:22:29 IST" name="validateThePage" finished-at="2024-09-14T22:22:29 IST" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateThePage -->
+        <test-method signature="addToCart()[pri:9, instance:com.test.Sauce_Class@2eae8e6e]" started-at="2024-09-14T22:22:29 IST" name="addToCart" finished-at="2024-09-14T22:22:31 IST" duration-ms="2073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method signature="cartToIcon()[pri:10, instance:com.test.Sauce_Class@2eae8e6e]" started-at="2024-09-14T22:22:31 IST" name="cartToIcon" finished-at="2024-09-14T22:22:32 IST" duration-ms="77" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cartToIcon -->
+        <test-method signature="validateTheCartPage()[pri:11, instance:com.test.Sauce_Class@2eae8e6e]" started-at="2024-09-14T22:22:32 IST" name="validateTheCartPage" finished-at="2024-09-14T22:22:32 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTheCartPage -->
+        <test-method signature="checkOut()[pri:12, instance:com.test.Sauce_Class@2eae8e6e]" started-at="2024-09-14T22:22:32 IST" name="checkOut" finished-at="2024-09-14T22:22:32 IST" duration-ms="70" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkOut -->
+        <test-method signature="validateTheCheckoutPage()[pri:13, instance:com.test.Sauce_Class@2eae8e6e]" started-at="2024-09-14T22:22:32 IST" name="validateTheCheckoutPage" finished-at="2024-09-14T22:22:32 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTheCheckoutPage -->
+        <test-method signature="firstName()[pri:14, instance:com.test.Sauce_Class@2eae8e6e]" started-at="2024-09-14T22:22:32 IST" name="firstName" finished-at="2024-09-14T22:22:32 IST" duration-ms="112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstName -->
+        <test-method signature="lastName()[pri:15, instance:com.test.Sauce_Class@2eae8e6e]" started-at="2024-09-14T22:22:32 IST" name="lastName" finished-at="2024-09-14T22:22:32 IST" duration-ms="111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lastName -->
+        <test-method signature="postalCode()[pri:16, instance:com.test.Sauce_Class@2eae8e6e]" started-at="2024-09-14T22:22:32 IST" name="postalCode" finished-at="2024-09-14T22:22:32 IST" duration-ms="100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postalCode -->
+        <test-method signature="continueButton()[pri:17, instance:com.test.Sauce_Class@2eae8e6e]" started-at="2024-09-14T22:22:32 IST" name="continueButton" finished-at="2024-09-14T22:22:35 IST" duration-ms="3096" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- continueButton -->
+      </class> <!-- com.test.Sauce_Class -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
